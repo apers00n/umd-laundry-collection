@@ -1,8 +1,4 @@
 import { getRooms, getRoomSummaries, getMachines } from "./getInfo.js";
-
-const rooms = await getRooms("Prince Frederick FL7");
-const machines = await getMachines(rooms[0].roomId);
-
 const washingMachine = [" ✅  ", "╔═══╗", "╔═══╗", "║🫧 ║", "╚═══╝"];
 
 const dryingMachine = [" ✅  ", "╔═══╗", "╔═══╗", "║🔥 ║", "╚═══╝"];
@@ -40,21 +36,30 @@ function combineBlocks(...blocks) {
   return lines;
 }
 
-let washingMachines = [];
-let dryingMachines = [];
+export function printLaundry(machines) {
+  let washingMachines = [];
+  let dryingMachines = [];
 
-machines.forEach((machine) => {
-  let text = addHeader(
-    machine.type === "washer" ? washingMachine : dryingMachine,
-    machine.available ? "✅" : machine.timeRemaining + "m",
-  );
-  if (machine.type === "washer") {
-    washingMachines.push(text);
-  } else {
-    dryingMachines.push(text);
-  }
-});
+  machines.forEach((machine) => {
+    let text = addHeader(
+      machine.type === "washer" ? washingMachine : dryingMachine,
+      machine.available ? "✅" : machine.timeRemaining + "m",
+    );
+    if (machine.type === "washer") {
+      washingMachines.push(text);
+    } else {
+      dryingMachines.push(text);
+    }
+  });
 
-console.log(combineBlocks(...washingMachines).join("\n"));
+  console.log(combineBlocks(...washingMachines).join("\n"));
 
-console.log(combineBlocks(...dryingMachines).join("\n"));
+  console.log(combineBlocks(...dryingMachines).join("\n"));
+}
+
+if (import.meta.url === `file://${process.argv[1]}`) {
+  const rooms = await getRooms("Prince Frederick FL7");
+  const machines = await getMachines(rooms[0].roomId);
+
+  printLaundry(machines);
+}
