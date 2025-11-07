@@ -1,0 +1,1952 @@
+[
+  {
+    "timestamp": "2025-11-07T00:33:14.894Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 5",
+    "roomId": "200499-038",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "PYON-CHEN HALL-NORTH  BLDG FL 3",
+    "roomId": "200499-034",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "117 HAGERSTOWN  200499-020",
+    "roomId": "200499-002",
+    "washers": {
+      "available": 2,
+      "total": 8
+    },
+    "dryers": {
+      "available": 4,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Prince Frederick FL4",
+    "roomId": "200499-031",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL 7",
+    "roomId": "200499-021",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Ellicott Hall",
+    "roomId": "200499-008",
+    "washers": {
+      "available": 3,
+      "total": 6
+    },
+    "dryers": {
+      "available": 1,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Elkton Hall",
+    "roomId": "200499-046",
+    "washers": {
+      "available": 8,
+      "total": 11
+    },
+    "dryers": {
+      "available": 4,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Prince Frederick FL5",
+    "roomId": "200499-032",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Cumberland Hall",
+    "roomId": "201465-001",
+    "washers": {
+      "available": 10,
+      "total": 11
+    },
+    "dryers": {
+      "available": 7,
+      "total": 11
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Queen Anne's Hall ",
+    "roomId": "200499-042",
+    "washers": {
+      "available": 7,
+      "total": 7
+    },
+    "dryers": {
+      "available": 1,
+      "total": 7
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "115 LA PLATA  200499-018",
+    "roomId": "200499-001",
+    "washers": {
+      "available": 3,
+      "total": 9
+    },
+    "dryers": {
+      "available": 0,
+      "total": 9
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Centerville North",
+    "roomId": "200499-010",
+    "washers": {
+      "available": 3,
+      "total": 4
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "PYON-CHEN HALL NORTH BLDG FL6",
+    "roomId": "200499 (039)",
+    "washers": {
+      "available": 0,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "PYON-CHEN HALL-NORTH  BLDG FL 4",
+    "roomId": "200499-037",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 2",
+    "roomId": "200499-036",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Johnson Whittle FL6",
+    "roomId": "200499-017",
+    "washers": {
+      "available": 0,
+      "total": 0
+    },
+    "dryers": {
+      "available": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Johnson Whittle FL5 ",
+    "roomId": "200499-016",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Johnson Whittle FL4",
+    "roomId": "200499-015",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Johnson Whittle FL3",
+    "roomId": "200499-014",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Johnson Whittle FL2",
+    "roomId": "200499-013",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Harford Hall Washers",
+    "roomId": "200499-044",
+    "washers": {
+      "available": 9,
+      "total": 22
+    },
+    "dryers": {
+      "available": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Wicomico Hall ",
+    "roomId": "200499-048",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL6",
+    "roomId": "200499-022",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Prince Frederick FL3",
+    "roomId": "200499-030",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Prince Frederick FL2",
+    "roomId": "200499-029",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Centerville South ",
+    "roomId": "200499-011",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Chestertown Hall",
+    "roomId": "200499-040",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Bel Air Hall",
+    "roomId": "200499-041",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Cambridge Hall ",
+    "roomId": "200499-043",
+    "washers": {
+      "available": 5,
+      "total": 5
+    },
+    "dryers": {
+      "available": 0,
+      "total": 5
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Harford Hall Dryers ",
+    "roomId": "200499-045",
+    "washers": {
+      "available": 0,
+      "total": 0
+    },
+    "dryers": {
+      "available": 8,
+      "total": 21
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Dorchester Hall",
+    "roomId": "200499-047",
+    "washers": {
+      "available": 6,
+      "total": 7
+    },
+    "dryers": {
+      "available": 6,
+      "total": 7
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL 2",
+    "roomId": "200499-025",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Prince Frederick FL7",
+    "roomId": "200499-039",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Prince Frederick FL6",
+    "roomId": "200499-033",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Prince Frederick FL1",
+    "roomId": "200499-028",
+    "washers": {
+      "available": 1,
+      "total": 1
+    },
+    "dryers": {
+      "available": 1,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Johnson Whittle FL1",
+    "roomId": "200499-012",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "120 DENTON  200499-022",
+    "roomId": "200499-005",
+    "washers": {
+      "available": 2,
+      "total": 7
+    },
+    "dryers": {
+      "available": 6,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "119 EASTON  200499-023",
+    "roomId": "200499-003",
+    "washers": {
+      "available": 4,
+      "total": 7
+    },
+    "dryers": {
+      "available": 2,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 1",
+    "roomId": "200499-035",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Leonardtown Hall",
+    "roomId": "200499-009",
+    "washers": {
+      "available": 8,
+      "total": 9
+    },
+    "dryers": {
+      "available": 3,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Cecil Hall",
+    "roomId": "200499-018",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 2,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Carol",
+    "roomId": "200499-006",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Caroline",
+    "roomId": "200499-004",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "199 WORCHESTER",
+    "roomId": "200499-007",
+    "washers": {
+      "available": 1,
+      "total": 4
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Somerset Hall ",
+    "roomId": "200499-019",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 0,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL 8",
+    "roomId": "200499-020",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL1",
+    "roomId": "200499-024",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL5",
+    "roomId": "200499-023",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL4",
+    "roomId": "200499-027",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:33:14.899Z",
+    "label": "Oakland Hall FL3",
+    "roomId": "200499-026",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.179Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 5",
+    "roomId": "200499-038",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "PYON-CHEN HALL-NORTH  BLDG FL 3",
+    "roomId": "200499-034",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "117 HAGERSTOWN  200499-020",
+    "roomId": "200499-002",
+    "washers": {
+      "available": 2,
+      "total": 8
+    },
+    "dryers": {
+      "available": 4,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Prince Frederick FL4",
+    "roomId": "200499-031",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL 7",
+    "roomId": "200499-021",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Ellicott Hall",
+    "roomId": "200499-008",
+    "washers": {
+      "available": 3,
+      "total": 6
+    },
+    "dryers": {
+      "available": 0,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Elkton Hall",
+    "roomId": "200499-046",
+    "washers": {
+      "available": 8,
+      "total": 11
+    },
+    "dryers": {
+      "available": 4,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Prince Frederick FL5",
+    "roomId": "200499-032",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Cumberland Hall",
+    "roomId": "201465-001",
+    "washers": {
+      "available": 9,
+      "total": 11
+    },
+    "dryers": {
+      "available": 6,
+      "total": 11
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Queen Anne's Hall ",
+    "roomId": "200499-042",
+    "washers": {
+      "available": 7,
+      "total": 7
+    },
+    "dryers": {
+      "available": 1,
+      "total": 7
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "115 LA PLATA  200499-018",
+    "roomId": "200499-001",
+    "washers": {
+      "available": 6,
+      "total": 9
+    },
+    "dryers": {
+      "available": 2,
+      "total": 9
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Centerville North",
+    "roomId": "200499-010",
+    "washers": {
+      "available": 3,
+      "total": 4
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "PYON-CHEN HALL NORTH BLDG FL6",
+    "roomId": "200499 (039)",
+    "washers": {
+      "available": 0,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "PYON-CHEN HALL-NORTH  BLDG FL 4",
+    "roomId": "200499-037",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 2",
+    "roomId": "200499-036",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Johnson Whittle FL6",
+    "roomId": "200499-017",
+    "washers": {
+      "available": 0,
+      "total": 0
+    },
+    "dryers": {
+      "available": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Johnson Whittle FL5 ",
+    "roomId": "200499-016",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Johnson Whittle FL4",
+    "roomId": "200499-015",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Johnson Whittle FL3",
+    "roomId": "200499-014",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Johnson Whittle FL2",
+    "roomId": "200499-013",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Harford Hall Washers",
+    "roomId": "200499-044",
+    "washers": {
+      "available": 12,
+      "total": 22
+    },
+    "dryers": {
+      "available": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Wicomico Hall ",
+    "roomId": "200499-048",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL6",
+    "roomId": "200499-022",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Prince Frederick FL3",
+    "roomId": "200499-030",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Prince Frederick FL2",
+    "roomId": "200499-029",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Centerville South ",
+    "roomId": "200499-011",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Chestertown Hall",
+    "roomId": "200499-040",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Bel Air Hall",
+    "roomId": "200499-041",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Cambridge Hall ",
+    "roomId": "200499-043",
+    "washers": {
+      "available": 5,
+      "total": 5
+    },
+    "dryers": {
+      "available": 0,
+      "total": 5
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Harford Hall Dryers ",
+    "roomId": "200499-045",
+    "washers": {
+      "available": 0,
+      "total": 0
+    },
+    "dryers": {
+      "available": 7,
+      "total": 21
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Dorchester Hall",
+    "roomId": "200499-047",
+    "washers": {
+      "available": 6,
+      "total": 7
+    },
+    "dryers": {
+      "available": 6,
+      "total": 7
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL 2",
+    "roomId": "200499-025",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Prince Frederick FL7",
+    "roomId": "200499-039",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Prince Frederick FL6",
+    "roomId": "200499-033",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Prince Frederick FL1",
+    "roomId": "200499-028",
+    "washers": {
+      "available": 1,
+      "total": 1
+    },
+    "dryers": {
+      "available": 1,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Johnson Whittle FL1",
+    "roomId": "200499-012",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "120 DENTON  200499-022",
+    "roomId": "200499-005",
+    "washers": {
+      "available": 3,
+      "total": 7
+    },
+    "dryers": {
+      "available": 6,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "119 EASTON  200499-023",
+    "roomId": "200499-003",
+    "washers": {
+      "available": 3,
+      "total": 7
+    },
+    "dryers": {
+      "available": 2,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 1",
+    "roomId": "200499-035",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Leonardtown Hall",
+    "roomId": "200499-009",
+    "washers": {
+      "available": 8,
+      "total": 9
+    },
+    "dryers": {
+      "available": 3,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Cecil Hall",
+    "roomId": "200499-018",
+    "washers": {
+      "available": 1,
+      "total": 4
+    },
+    "dryers": {
+      "available": 2,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Carol",
+    "roomId": "200499-006",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Caroline",
+    "roomId": "200499-004",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "199 WORCHESTER",
+    "roomId": "200499-007",
+    "washers": {
+      "available": 2,
+      "total": 4
+    },
+    "dryers": {
+      "available": 3,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Somerset Hall ",
+    "roomId": "200499-019",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 0,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL 8",
+    "roomId": "200499-020",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL1",
+    "roomId": "200499-024",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL5",
+    "roomId": "200499-023",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL4",
+    "roomId": "200499-027",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:39:34.183Z",
+    "label": "Oakland Hall FL3",
+    "roomId": "200499-026",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.360Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 5",
+    "roomId": "200499-038",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "PYON-CHEN HALL-NORTH  BLDG FL 3",
+    "roomId": "200499-034",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "117 HAGERSTOWN  200499-020",
+    "roomId": "200499-002",
+    "washers": {
+      "available": 2,
+      "total": 8
+    },
+    "dryers": {
+      "available": 4,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Prince Frederick FL4",
+    "roomId": "200499-031",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL 7",
+    "roomId": "200499-021",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Ellicott Hall",
+    "roomId": "200499-008",
+    "washers": {
+      "available": 3,
+      "total": 6
+    },
+    "dryers": {
+      "available": 1,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Elkton Hall",
+    "roomId": "200499-046",
+    "washers": {
+      "available": 8,
+      "total": 11
+    },
+    "dryers": {
+      "available": 4,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Prince Frederick FL5",
+    "roomId": "200499-032",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Cumberland Hall",
+    "roomId": "201465-001",
+    "washers": {
+      "available": 6,
+      "total": 11
+    },
+    "dryers": {
+      "available": 6,
+      "total": 11
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Queen Anne's Hall ",
+    "roomId": "200499-042",
+    "washers": {
+      "available": 7,
+      "total": 7
+    },
+    "dryers": {
+      "available": 1,
+      "total": 7
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "115 LA PLATA  200499-018",
+    "roomId": "200499-001",
+    "washers": {
+      "available": 6,
+      "total": 9
+    },
+    "dryers": {
+      "available": 2,
+      "total": 9
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Centerville North",
+    "roomId": "200499-010",
+    "washers": {
+      "available": 3,
+      "total": 4
+    },
+    "dryers": {
+      "available": 0,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "PYON-CHEN HALL NORTH BLDG FL6",
+    "roomId": "200499 (039)",
+    "washers": {
+      "available": 0,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "PYON-CHEN HALL-NORTH  BLDG FL 4",
+    "roomId": "200499-037",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 2",
+    "roomId": "200499-036",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 4,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Johnson Whittle FL6",
+    "roomId": "200499-017",
+    "washers": {
+      "available": 0,
+      "total": 0
+    },
+    "dryers": {
+      "available": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Johnson Whittle FL5 ",
+    "roomId": "200499-016",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Johnson Whittle FL4",
+    "roomId": "200499-015",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Johnson Whittle FL3",
+    "roomId": "200499-014",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Johnson Whittle FL2",
+    "roomId": "200499-013",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Harford Hall Washers",
+    "roomId": "200499-044",
+    "washers": {
+      "available": 11,
+      "total": 22
+    },
+    "dryers": {
+      "available": 0,
+      "total": 0
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Wicomico Hall ",
+    "roomId": "200499-048",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL6",
+    "roomId": "200499-022",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Prince Frederick FL3",
+    "roomId": "200499-030",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Prince Frederick FL2",
+    "roomId": "200499-029",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Centerville South ",
+    "roomId": "200499-011",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Chestertown Hall",
+    "roomId": "200499-040",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Bel Air Hall",
+    "roomId": "200499-041",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Cambridge Hall ",
+    "roomId": "200499-043",
+    "washers": {
+      "available": 5,
+      "total": 5
+    },
+    "dryers": {
+      "available": 1,
+      "total": 5
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Harford Hall Dryers ",
+    "roomId": "200499-045",
+    "washers": {
+      "available": 0,
+      "total": 0
+    },
+    "dryers": {
+      "available": 7,
+      "total": 21
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Dorchester Hall",
+    "roomId": "200499-047",
+    "washers": {
+      "available": 6,
+      "total": 7
+    },
+    "dryers": {
+      "available": 6,
+      "total": 7
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL 2",
+    "roomId": "200499-025",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Prince Frederick FL7",
+    "roomId": "200499-039",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Prince Frederick FL6",
+    "roomId": "200499-033",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Prince Frederick FL1",
+    "roomId": "200499-028",
+    "washers": {
+      "available": 1,
+      "total": 1
+    },
+    "dryers": {
+      "available": 1,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Johnson Whittle FL1",
+    "roomId": "200499-012",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "120 DENTON  200499-022",
+    "roomId": "200499-005",
+    "washers": {
+      "available": 3,
+      "total": 7
+    },
+    "dryers": {
+      "available": 6,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "119 EASTON  200499-023",
+    "roomId": "200499-003",
+    "washers": {
+      "available": 3,
+      "total": 7
+    },
+    "dryers": {
+      "available": 2,
+      "total": 8
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "PYON-CHEN HALL-NORTH BLDG FL 1",
+    "roomId": "200499-035",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Leonardtown Hall",
+    "roomId": "200499-009",
+    "washers": {
+      "available": 8,
+      "total": 9
+    },
+    "dryers": {
+      "available": 3,
+      "total": 10
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Cecil Hall",
+    "roomId": "200499-018",
+    "washers": {
+      "available": 1,
+      "total": 4
+    },
+    "dryers": {
+      "available": 2,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Carol",
+    "roomId": "200499-006",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Caroline",
+    "roomId": "200499-004",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "199 WORCHESTER",
+    "roomId": "200499-007",
+    "washers": {
+      "available": 2,
+      "total": 4
+    },
+    "dryers": {
+      "available": 3,
+      "total": 4
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Somerset Hall ",
+    "roomId": "200499-019",
+    "washers": {
+      "available": 4,
+      "total": 4
+    },
+    "dryers": {
+      "available": 0,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL 8",
+    "roomId": "200499-020",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL1",
+    "roomId": "200499-024",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL5",
+    "roomId": "200499-023",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL4",
+    "roomId": "200499-027",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 0,
+      "total": 1
+    }
+  },
+  {
+    "timestamp": "2025-11-07T00:40:28.364Z",
+    "label": "Oakland Hall FL3",
+    "roomId": "200499-026",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 2
+    }
+  }
+]
