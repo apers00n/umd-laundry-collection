@@ -61,5 +61,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const rooms = await getRooms("Prince Frederick FL7");
   const machines = await getMachines(rooms[0].roomId);
 
+  console.log("\nPrince Frederick Hall Floor 7");
+  console.log("-----------------------------\n");
   printLaundry(machines);
 }
