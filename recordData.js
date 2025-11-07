@@ -46,7 +46,7 @@ fetchAndSave(); // all floors
 // fetchAndSave("Prince Frederick"); // your floor
 
 // Schedule repeated fetch every INTERVAL_MINUTES
-setInterval(() => fetchAndSave(), INTERVAL_MINUTES * 60 * 1000);
+// setInterval(() => fetchAndSave(), INTERVAL_MINUTES * 60 * 1000);
 // setInterval(
 //   () => fetchAndSave("Prince Frederick FL7"),
 //   INTERVAL_MINUTES * 60 * 1000,
