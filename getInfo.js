@@ -14,6 +14,14 @@ export async function getRooms(label = "") {
     .map((room) => ({ label: room.label, roomId: room.roomId }));
 }
 
+export async function getMachines(roomId) {
+  const res = await fetch(`${BASE_URL}/room/${roomId}/machines`);
+  if (!res.ok) throw new Error(`Error fetching location: ${res.status}`);
+  const data = await res.json();
+
+  return data;
+}
+
 /**
  * Fetch summaries for each room and return structured data
  * @param {Array} rooms - Array of objects with {label, roomId}
