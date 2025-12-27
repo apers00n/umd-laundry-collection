@@ -362,5 +362,96 @@
       "available": 1,
       "total": 1
     }
+  },
+  {
+    "timestamp": "2025-12-27T04:49:24.529Z",
+    "label": "Prince Frederick FL4",
+    "roomId": "200499-031",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-27T04:49:24.530Z",
+    "label": "Prince Frederick FL5",
+    "roomId": "200499-032",
+    "washers": {
+      "available": 2,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-27T04:49:24.530Z",
+    "label": "Prince Frederick FL3",
+    "roomId": "200499-030",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-27T04:49:24.530Z",
+    "label": "Prince Frederick FL2",
+    "roomId": "200499-029",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-27T04:49:24.530Z",
+    "label": "Prince Frederick FL7",
+    "roomId": "200499-039",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 3,
+      "total": 3
+    }
+  },
+  {
+    "timestamp": "2025-12-27T04:49:24.530Z",
+    "label": "Prince Frederick FL6",
+    "roomId": "200499-033",
+    "washers": {
+      "available": 3,
+      "total": 3
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
+  },
+  {
+    "timestamp": "2025-12-27T04:49:24.530Z",
+    "label": "Prince Frederick FL1",
+    "roomId": "200499-028",
+    "washers": {
+      "available": 1,
+      "total": 1
+    },
+    "dryers": {
+      "available": 1,
+      "total": 1
+    }
   }
 ]
