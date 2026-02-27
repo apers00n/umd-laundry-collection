@@ -167,5 +167,18 @@
       "available": 0,
       "total": 2
     }
+  },
+  {
+    "timestamp": "2026-02-27T15:28:35.372Z",
+    "label": "Prince Frederick FL7",
+    "roomId": "200499-039",
+    "washers": {
+      "available": 2,
+      "total": 2
+    },
+    "dryers": {
+      "available": 2,
+      "total": 2
+    }
   }
 ]
