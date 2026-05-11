@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": "2026-05-11T01:55:53.997Z",
+    "label": "Prince Frederick FL7",
+    "roomId": "200499-039",
+    "washers": {
+      "available": 1,
+      "total": 3
+    },
+    "dryers": {
+      "available": 1,
+      "total": 3
+    }
+  }
+]
